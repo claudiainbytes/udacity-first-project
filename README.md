@@ -17,7 +17,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 Your response goes here!
 
-** What new skills have you learned? **
+**What new skills have you learned?**
 
 I knew about HTML but in its 4th version. Right now, I can say my HTML skills were updated to the latest one, the 5th version. New tags were added, other tags and attributes were deprecated. Understanding the use of HTML5 structures is useful, I didn't have idea
 the difference between `<i>` tag and `<em>` tag or `<b>` tag and `<strong>` tag. Tags are useful depends on their context or purpose.
@@ -26,7 +26,7 @@ the difference between `<i>` tag and `<em>` tag or `<b>` tag and `<strong>` tag.
 
 In my opinion, indexating all the HTML5 structure has been easy to learn. It's a good practice to stay organized for a comprensible code, no matter what the programming language.
 
-** What has been difficult? **
+**What has been difficult?**
 
 Sometimes there are tags that work as parents and child elements where nesting or grouping elements are important. But in some tags like `<section>`, `<article>`, `<header>` and `<footer>` are confusing.
 
